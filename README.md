@@ -9,6 +9,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/elodie-babina/"><img img align="left" width="40px" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin"/></a>
   <a href="mailto:elodiebabina@gmail.com"><img align="left" width="40px" alt="Gmail" src="https://cdn.simpleicons.org/gmail"/> </a>
+  <a href="https://twitter.com/babinaelodie"><img align="left" width="40px" alt="Gmail" src="https://cdn.simpleicons.org/twitter"/> </a>
 
 </div>
 
