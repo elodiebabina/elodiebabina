@@ -4,7 +4,7 @@
 - 👨‍💻 My futur personal portfolio : **<a href="****" target="_blank">Portfolio</a>**
 
 
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=200&pause=1000&color=F765CD&random=false&width=435&lines=Bioinformatics+engineer+%3A)" alt="Typing SVG" /></a>" /> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
