@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Elodie Babina 👋 </h1>
+<h1 align="center"> Hi there, I'm Elodie👋 </h1>
 <h2 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=200&pause=1000&color=F765CD&random=false&width=435&lines=Bioinformatics+engineer+%3A)" alt="Typing SVG" /></a> </h2>
 
 - 🔭 I’m currently working on developing my own website
