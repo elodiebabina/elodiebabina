@@ -19,3 +19,5 @@
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
 </div>
+
+ <br> <p align="left"> <img src="https://komarev.com/ghpvc/?username=elodiebabina&label=Profile%20views&color=0e75b6&style=flat" alt="elodiebabina" /> </p>
