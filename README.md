@@ -16,7 +16,8 @@
 
 <h3 align="left"> <br> <br> Languages :</h3>
 <div align="left">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">  <img src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  <img src ="https://img.shields.io/badge/HTML5-9ae0f0?style=for-the-badge&logo=HTML5&logoColor=white"> <img src ="https://img.shields.io/badge/CSS3-2878b8?style=for-the-badge&logo=CSS3&logoColor=white">
+
 
 </div>
 
