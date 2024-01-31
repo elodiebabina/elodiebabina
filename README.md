@@ -3,7 +3,7 @@
 
 - ✨ Aspiring to advance scientific research through the exploration of informatic resources.
 - 🚀 I’m currently working on developing my own website.
-- 👨‍💻 My future personal portfolio : **<a href="****" target="_blank">Portfolio</a>**.
+- 👨‍💻 My future personal portfolio : **<a href="https://elodiebabina.github.io/EBportfolio.github.io/" target="_blank">Portfolio</a>**.
 
 
 <h3 align="left">Connect with me:</h3>
